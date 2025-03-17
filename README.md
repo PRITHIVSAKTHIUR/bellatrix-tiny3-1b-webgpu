@@ -1,4 +1,4 @@
-Try it in chrome browser [ pc / laptop ] : [**Access the Live Demo**](https://bellatrix-tiny3-1b-webgpu.vercel.app/)
+Try it on chrome browser [ pc / laptop ] : [**Access the Live Demo**](https://bellatrix-tiny3-1b-webgpu.vercel.app/)
 
 ![logo.png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/Rqm-Qx8AvbHFFbFbVY93X.png)
 
