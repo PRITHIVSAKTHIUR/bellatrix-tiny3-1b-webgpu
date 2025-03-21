@@ -1,4 +1,6 @@
-Try it on chrome browser [ pc / laptop ] : [**Access the Live Demo**](https://bellatrix-tiny3-1b-webgpu.vercel.app/)
+> [!WARNING]
+> Try it on a Chrome browser [PC/Laptop]
+> [**Access the Live Demo**](https://bellatrix-tiny3-1b-webgpu.vercel.app/)
 
 https://github.com/user-attachments/assets/1e5698c9-6715-4331-bc9d-7073631c8384
 
