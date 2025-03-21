@@ -1,5 +1,7 @@
 Try it on chrome browser [ pc / laptop ] : [**Access the Live Demo**](https://bellatrix-tiny3-1b-webgpu.vercel.app/)
 
+https://github.com/user-attachments/assets/1e5698c9-6715-4331-bc9d-7073631c8384
+
 ![logo.png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/Rqm-Qx8AvbHFFbFbVY93X.png)
 
 <pre align="center">
